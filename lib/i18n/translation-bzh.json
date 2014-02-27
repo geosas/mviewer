@@ -1,0 +1,38 @@
+{
+  "mviewer":{
+    "loading": "O kargañ an MViewer..."
+  },
+  "map": {
+    "baselayers": "Kartenn war-lec'h"
+  },
+  "layerpanel": {
+    "categories": "An temou",
+    "layeropacity": "dallijenn al livadenn",
+    "moreinformation" : "Muioc'h a titouriou war al livadenn-mañ",
+    "displayhidelayer": "Diskoueza/kuzhat al livadenn-mañ"
+  },
+  "mentionstbar": {
+    "help": "Sikour",
+    "helptitle": "Sikour",
+    "legal": "Penn-komz legal",
+    "legaltitle": "Penn-komz legal",
+    "access": "Digorness",
+    "accesstitle": "Digorness",
+    "contact": "Da vont war-dro deomp",
+    "contacttitle": "Da vont war-dro deomp"
+  },
+  "search": {
+    "placeholder": "Kavout lec'hien...",
+    "title": "Kavout un adres"
+  },
+  "zoomtbar": {
+    "zoomin": "Zoom a-raok (zoom prenest : shift + clic war kartenn)",
+    "home": "Mond en-dro war ledennad geografik kentan",
+    "zoomout": "Zoom a-dreñv"
+  },
+  "toolstbar": {
+    "share": "Lodañ ar gartenn-mãn",
+    "link": "Liamm trema'r gartenn",
+    "linktitle": "Liamm padel trema'r gartenn"
+  }
+}
