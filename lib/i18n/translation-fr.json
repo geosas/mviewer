@@ -1,0 +1,38 @@
+{
+  "mviewer":{
+    "loading": "Chargement du MViewer..."
+  },
+  "map": {
+    "baselayers": "Fonds de plan"
+  },
+  "layerpanel": {
+    "categories": "Les thématiques",
+    "layeropacity": "Opacité de la couche",
+    "moreinformation" : "Plus dinformation sur cette couche de données",
+    "displayhidelayer": "Afficher/masquer cette couche"
+  },
+  "mentionstbar": {
+    "help": "Aide",
+    "helptitle": "Aide",
+    "legal": "Mentions légales",
+    "legaltitle": "Mentions légales",
+    "access": "Accessibilité",
+    "accesstitle": "Accessibilité",
+    "contact": "Nous contacter",
+    "contacttitle": "Nous contacter"
+  },
+  "search": {
+    "placeholder": "Localiser...",
+    "title": "Localiser une adresse"
+  },
+  "zoomtbar": {
+    "zoomin": "Zoom avant (zoom fenêtre : shift + clic sur la carte)",
+    "home": "Revenir à l'étendue géographique de départ",
+    "zoomout": "Zooom arrière"
+  },
+  "toolstbar": {
+    "share": "Partager cette carte",
+    "link": "lien vers la carte",
+    "linktitle": "lien permanent vers la carte"
+  }
+}

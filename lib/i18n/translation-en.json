@@ -1,0 +1,38 @@
+{
+  "mviewer":{
+    "loading": "Loading Marvellous Viewer..."
+  },
+  "map": {
+    "baselayers": "Base layers"
+  },
+  "layerpanel": {
+    "categories": "The categories",
+    "layeropacity": "Layer Opacity",
+    "moreinformation" : "More information about this layer",
+    "displayhidelayer": "Display/hide layer"
+  },
+  "mentionstbar": {
+    "help": "Help",
+    "helptitle": "Help for using",
+    "legal": "Legal notices",
+    "legaltitle": "Legal notices",
+    "access": "Accessibility",
+    "accesstitle": "Accessibility",
+    "contact": "Contact us",
+    "contacttitle": "contact us by sending an email"
+  },
+  "search": {
+    "placeholder": "Locate...",
+    "title": "Recenter on address or city"
+  },
+  "zoomtbar": {
+    "zoomin": "Zoom in (zoom area : shift + click on map)",
+    "home": "Back to initial view",
+    "zoomout": "Zooom out"
+  },
+  "toolstbar": {
+    "share": "Share this map",
+    "link": "link to this map",
+    "linktitle": "permalink to this map"
+  }
+}
