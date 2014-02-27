@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ViewContext xmlns="http://www.opengis.net/context" version="1.1.0" id="données hydro" xsi:schemaLocation="http://www.opengis.net/context http://schemas.opengis.net/context/1.1.0/context.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ViewContext xmlns="http://www.opengis.net/context" version="1.1.0" id="Données hydro DREAL" xsi:schemaLocation="http://www.opengis.net/context http://schemas.opengis.net/context/1.1.0/context.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <General>
     <Window width="973" height="806"/>
     <BoundingBox minx="164192.885019100009" miny="6782442.45861249976" maxx="182786.229336160002" maxy="6797844.55061610043" SRS="EPSG:2154"/>

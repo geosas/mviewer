@@ -3,7 +3,7 @@
   <General>
     <Window width="973" height="806"/>
     <BoundingBox minx="89559.0273465780047" miny="6681375.90074209962" maxx="387052.536419500015" maxy="6927809.37280050013" SRS="EPSG:2154"/>
-    <Title/>
+    <Title>Lycées et communes</Title>
     <Extension>
       <ol:maxExtent xmlns:ol="http://openlayers.org/context" minx="-357823.236499999999" miny="6037008.69390000030" maxx="894521.034699999960" maxy="7289352.96509999968"/>
     </Extension>
